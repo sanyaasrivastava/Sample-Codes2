@@ -1,5 +1,5 @@
-# DSSGx-Munich
-This is a repository of my codes that showcase my level of coding for the DSSGx Munich interview. The repository contains code in Stata, Python, and R, with each code demonstrating different skills.
+# Sample Codes
+This is a repository of my codes that showcase my level of coding. The repository contains code in Stata, Python, and R, with each code demonstrating different skills.
 
 Stata Code
 The Stata code in this repository demonstrates my skills in data cleaning, transformation, and causal analysis using Probit Regression. The code looks at conducting an impact evaluation to determine the effectiveness of a program, and it uses various Stata commands to clean and transform the data, and then runs a Probit regression to analyze the causal relationship.
